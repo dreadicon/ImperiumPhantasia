@@ -1,0 +1,11 @@
+C:\Users\BPetry\Documents\GitHub\ImperiumPhantasia\Imperium\Imperium\obj\x86\Release\Imperium.csprojResolveAssemblyReference.cache
+C:\Users\BPetry\Documents\GitHub\ImperiumPhantasia\Imperium\Imperium\obj\x86\Release\App.g.i.cs
+C:\Users\BPetry\Documents\GitHub\ImperiumPhantasia\Imperium\Imperium\obj\x86\Release\App.g.cs
+C:\Users\BPetry\Documents\GitHub\ImperiumPhantasia\Imperium\Imperium\obj\x86\Release\MainPage.g.i.cs
+C:\Users\BPetry\Documents\GitHub\ImperiumPhantasia\Imperium\Imperium\obj\x86\Release\MainPage.g.cs
+C:\Users\BPetry\Documents\GitHub\ImperiumPhantasia\Imperium\Imperium\obj\x86\Release\XamlTypeInfo.g.cs
+C:\Users\BPetry\Documents\GitHub\ImperiumPhantasia\Imperium\Imperium\obj\x86\Release\App.xaml
+C:\Users\BPetry\Documents\GitHub\ImperiumPhantasia\Imperium\Imperium\obj\x86\Release\MainPage.xaml
+C:\Users\BPetry\Documents\GitHub\ImperiumPhantasia\Imperium\Imperium\obj\x86\Release\App.xbf
+C:\Users\BPetry\Documents\GitHub\ImperiumPhantasia\Imperium\Imperium\obj\x86\Release\MainPage.xbf
+C:\Users\BPetry\Documents\GitHub\ImperiumPhantasia\Imperium\Imperium\obj\x86\Release\XamlSaveStateFile.xml

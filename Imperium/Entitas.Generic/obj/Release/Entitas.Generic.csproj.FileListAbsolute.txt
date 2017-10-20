@@ -1,0 +1,7 @@
+C:\Users\BPetry\Documents\Visual Studio 2017\Projects\Imperium\Entitas.Generic\bin\Release\Entitas.Generic.dll
+C:\Users\BPetry\Documents\Visual Studio 2017\Projects\Imperium\Entitas.Generic\bin\Release\Entitas.Generic.pdb
+C:\Users\BPetry\Documents\Visual Studio 2017\Projects\Imperium\Entitas.Generic\bin\Release\Entitas.dll
+C:\Users\BPetry\Documents\Visual Studio 2017\Projects\Imperium\Entitas.Generic\bin\Release\Entitas.Utils.dll
+C:\Users\BPetry\Documents\Visual Studio 2017\Projects\Imperium\Entitas.Generic\obj\Release\Entitas.Generic.csprojResolveAssemblyReference.cache
+C:\Users\BPetry\Documents\Visual Studio 2017\Projects\Imperium\Entitas.Generic\obj\Release\Entitas.Generic.dll
+C:\Users\BPetry\Documents\Visual Studio 2017\Projects\Imperium\Entitas.Generic\obj\Release\Entitas.Generic.pdb
